@@ -1,8 +1,7 @@
 {
-    "name": "avalanche123/imagine-bundle",
+    "name": "socloz/imagine-bundle",
     "description": "Image manipulation using Imagine and Twig Filters.",
     "keywords": ["image manipulation", "imagine"],
-    "homepage": "https://github.com/avalanche123/AvalancheImagineBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "repositories":[
@@ -21,7 +20,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "2.*",
-        "imagine/Imagine": "v0.4.1"
+        "imagine/Imagine": "dev-develop"
     },
     "require-dev": {
         "makasim/temp-file": "dev-master"
